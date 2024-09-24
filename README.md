@@ -135,3 +135,9 @@ To run the code in this repository, follow these steps:
 4. Visual Crossing, *Weather Data for London*, June 2023.
 
 For a full list of references, see the report included in this repository.
+
+---
+
+This comprehensive analysis and its findings have been documented and made available on GitHub, providing a valuable resource for researchers, policymakers, and practitioners in the field of urban mobility and bike-sharing systems. The repository includes detailed code, data visualizations, and results, promoting transparency and facilitating further research and collaboration.
+
+Feel free to explore the project on GitHub [here](https://github.com/Kishore2-1/Predicting-London-Bike-Usage).
