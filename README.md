@@ -1,5 +1,3 @@
-# Predicting-London-Bike-Usage
-
 # Predicting London Bike Usage Using Machine Learning
 
 ## Overview
